@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c"/>
   <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/-UnrealEngine-black?style=flat-square&logo=unrealengine"/>
+  <img src="https://img.shields.io/badge/-FMOD-black?style=flat-square&logo=fmod"/>
   <img src="https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender"/>
   <img src="https://img.shields.io/badge/-Krita-black?style=flat-square&logo=krita"/>
   <img src="https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord"/>
